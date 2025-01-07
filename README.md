@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Redis, Microservices**
 
-- 💬 Ask me about **Angular, .Net, Javascript, Docker**
+- 💬 Ask me about **Angular, .Net, C#, Docker**
 
 - 📫 How to reach me **buzlukerdem@gmail.com**
 
