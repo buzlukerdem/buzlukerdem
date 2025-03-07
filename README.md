@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Web Application Development**
 
-- 🌱 I’m currently learning **Redis, Microservices**
+- 🌱 I’m currently learning *DeepSeek*, Microservices**
 
 - 💬 Ask me about **Angular, .Net, C#, EF-CORE**
 
